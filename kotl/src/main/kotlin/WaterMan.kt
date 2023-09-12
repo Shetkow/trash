@@ -1,0 +1,3 @@
+interface WaterMan {
+    fun btingWater()
+}
